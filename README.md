@@ -1,4 +1,4 @@
-# Memory’s Tech Tips’ Unattended Windows Installation
+# PavanDERebel’s Unattended Windows Installation
 
 ## Overview
 
@@ -24,10 +24,10 @@ My motivation for this project is to get an “IoT-LTSC-Like” or even better e
   - When installing Windows on multiple computers, there's no need to manually configure settings and run scripts on each machine, which saves a lot of time (and effort).
 <br/>
 
-## What does Memory's UnattendedWinstall answer files do?
+## What does PavanDERebel's UnattendedWinstall answer files do?
 
 ### <ins>Choose one of the following:</ins>
-### [IoT-LTSC-Like](https://github.com/memstechtips/UnattendedWinstall/blob/main/IoT-LTSC-Like/autounattend.xml) 
+### [IoT-LTSC-Like]() 
 ### *Recommended for most people*
    - Includes most of the same Windows Packages as IoT-LTSC
      - (Windows Security, Edge, Notepad, Snipping Tool, Calculator, Paint, Legacy Windows Media Player) with added Microsoft Store.
@@ -35,7 +35,7 @@ My motivation for this project is to get an “IoT-LTSC-Like” or even better e
    - Includes better privacy settings and various other tweaks, view [CHANGELOG](https://github.com/memstechtips/UnattendedWinstall/blob/main/CHANGELOG.md) for a full list.
 <br/>
 
-### [Standard](https://github.com/memstechtips/UnattendedWinstall/blob/main/autounattend.xml) 
+### [Standard]()
 ### *This acts as a "Blank Canvas" where you can start from scratch and only install the software you want).*
    - ALL Windows Packages are removed except for Windows Security (Microsoft Edge and Microsoft Store are both removed).
    - Only Security updates are installed, others are delayed for 1 year (max period)
